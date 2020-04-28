@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "name": "Пошаговый план заработка на партнерках",
+    "currentPage": "07.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "google-analytics": "<embed src=\"https://99017.ru/book-30k/?gcao=9902&gcpc=fc569\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
+    "favicon": "@PROJECT_PATH@/assets/images/212.jpg",
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Yes"
+    },
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "uniqCompNum": 0,
+    "versionPublish": "4.12.3"
+  },
+  "pages": {
+    "07.html": {
+      "settings": {
+        "main": true,
+        "title": "План  ЗАРАБОТКА",
+        "meta_descr": "Мы приготовили для Вас очень классную книгу, из которой Вы узнаете, как получать от 30 тыс. рублей в месяц в Интернете, ничего никому не продавая! Получите ее на лучших условиях!",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
